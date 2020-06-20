@@ -28,3 +28,7 @@ This repository contains all my programming assignments for this Specialization.
   - **25/02/2020** Finished the 3rd course
   - **15/03/2020** Finished the 4th course
   - **24/03/2020** Finished the 5th course and The Specialization
+  
+  
+## Certificates Autentication
+  - You can check the certificate on Coursera from [here](https://www.coursera.org/account/accomplishments/specialization/W9PDEYZHHHAU)
