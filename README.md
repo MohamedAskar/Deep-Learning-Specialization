@@ -23,7 +23,7 @@ This repository contains all my programming assignments for this Specialization.
       - This is the last course in this Specialization and it contains 7 Jupyter notebooks for each assignment in this course
       
 ## Milestones
-  - **11/09/2019** Finished the 1st course
+  - **11/09/2019**  Finished the 1st course
   - **14/02/2020** Finished the 2nd course
   - **25/02/2020** Finished the 3rd course
   - **15/03/2020** Finished the 4th course
